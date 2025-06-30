@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sanketkapoor12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanketkapoor12" height="30" width="40" /></a>
 <a href="https://kaggle.com/sanketkapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanketkapoor" height="30" width="40" /></a>
-<a href="https://instagram.com/sankett._12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankett._12" height="30" width="40" /></a>
+<a href="https://instagram.com/sankett._.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankett._12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanket1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanket1204" height="30" width="40" /></a>
 </p>
 
